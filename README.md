@@ -1,2 +1,2 @@
-# template
-Template for a Spring Boot Application with an Angular Frontend
+# Template for a Spring Boot Application with an Angular Frontend
+
