@@ -10,13 +10,20 @@
 
 * [Adding the Gradle Wrapper](https://docs.gradle.org/current/userguide/gradle_wrapper.html)
 
+## Spring Boot
+
 ## Angular
 
+* [Download Node.js®](https://nodejs.org/en/download)
+* [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 * [Here’s how to uninstall Node on your Mac](https://macpaw.com/how-to/uninstall-node-mac?campaign=cmmx_search_dsa_ww_en&ci=20162564605&adgroupid=152187995031&adpos=&ck=&targetid=dsa-2063388588900&match=&gnetwork=g&creative=659143544324&placement=&placecat=&accname=cmm&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIPgrCI6WnguMhQ9mKQFepfAZEpuETd7G5S-JoxXKRNHC3L-ieFn5ohoCRp8QAvD_BwE)
 * [How to install NVM (Node Version Manager) on macOS using Homebrew](https://sukiphan.medium.com/how-to-install-nvm-node-version-manager-on-macos-d9fe432cc7db)
-* [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-* [Download Node.js®](https://nodejs.org/en/download)
 * [Install Angular CLI](https://angular.dev/installation)
+* [Install Node22 using Homebrew](https://formulae.brew.sh/formula/node@22)
+
+### Bootstrap
+
+* [How to Add Bootstrap CSS to an Angular Application](https://daveyem.medium.com/how-to-add-bootstrap-css-to-an-angular-application-aadacb96ff9a)
 
 ## Commits
 
