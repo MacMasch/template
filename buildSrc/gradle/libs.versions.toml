@@ -1,0 +1,5 @@
+[versions]
+springBootVersion = "3.4.3"
+
+[libraries]
+spring-boot = { module = "org.springframework.boot:spring-boot-gradle-plugin", version.ref = "springBootVersion" }
