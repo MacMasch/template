@@ -16,6 +16,7 @@
 ## Baeldung
 
 * [Building a Web Application with Spring Boot and Angular](https://www.baeldung.com/spring-boot-angular-web)
+* [Monitor a Spring Boot App Using Prometheus](https://www.baeldung.com/spring-boot-prometheus)
 
 ## Gradle
 
@@ -28,6 +29,10 @@
 ### Bootstrap
 
 * [How to Add Bootstrap CSS to an Angular Application](https://daveyem.medium.com/how-to-add-bootstrap-css-to-an-angular-application-aadacb96ff9a)
+
+## Docker
+
+* [Creating and running an Angular application in a Docker container](https://dev.to/rodrigokamada/creating-and-running-an-angular-application-in-a-docker-container-40mk)
 
 ## Commits
 
